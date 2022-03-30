@@ -1,5 +1,5 @@
 
-![Discord](https://discord.c99.nl/widget/theme-3/852688903148142632.png)
+![Discord](https://discord.c99.nl/widget/theme-2/852688903148142632.png)
 
 #### Languages
 + ![python](https://img.shields.io/badge/-Python-FF008F)
